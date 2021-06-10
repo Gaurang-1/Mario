@@ -26,3 +26,26 @@
     background-color:rgb(78, 130, 241);
     border-radius:20px;
 }
+
+h4{
+    background-color: white;
+    line-height: 2;
+    margin:0px;
+}
+
+.modal-dialog{
+    width:50%;
+    
+}
+
+.instruction_img{
+    display:inline-block;
+    width:32%;
+}
+
+.coin{
+    width:250px;
+    height:250px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
